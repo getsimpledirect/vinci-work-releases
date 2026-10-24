@@ -1,0 +1,28 @@
+Release Distribution and Repository Material Notice
+
+Copyright (c) 2026 Alpine Pacific Trading Inc. (original repository material)
+All rights reserved in original material not separately licensed.
+
+This repository distributes Vinci Work release artifacts. Authorized users
+may download, install, and run the official published artifacts subject to
+the terms accompanying each artifact. This notice does not withdraw those
+installation or use rights and is not a replacement for the artifact's terms.
+
+Vinci Work is derived from OpenWork. Its source license preserves MIT terms
+outside the separately licensed /ee directory, the /ee Fair Source license,
+and the original licenses of third-party components. Those terms and notices
+continue to govern the corresponding material in every release. This notice
+does not impose additional restrictions on rights granted by those licenses.
+Inspect the notices accompanying the exact downloaded artifact; publication
+of a binary does not imply that every bundled component shares one license.
+
+Except as separately authorized in writing or required by law, no permission
+is granted to reproduce, modify, publish, distribute, sublicense, sell, or
+disclose original repository material covered by the reserved rights above.
+No patent or trademark license is granted. No previously granted license is
+revoked. Nonpublic material remains confidential and requires authorization.
+
+TO THE EXTENT PERMITTED BY LAW, MATERIAL COVERED BY THIS NOTICE IS PROVIDED
+"AS IS", WITHOUT EXPRESS OR IMPLIED WARRANTIES, INCLUDING MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE COPYRIGHT HOLDER
+IS NOT LIABLE FOR CLAIMS OR DAMAGES ARISING FROM THAT MATERIAL OR ITS USE.
